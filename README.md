@@ -27,6 +27,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=younessab12&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  ![LeetCode Stats](https://leetcode.card.workers.dev/Younessab12?theme=nord&font=baloo)
 </div>
 
 ###
