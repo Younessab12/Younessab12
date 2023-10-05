@@ -24,6 +24,5 @@
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/Younessab12?theme=nord&font=baloo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Younessab12&layout=compact&theme=nord)](https://github.com/Younessab12/github-readme-stats)
 
 </div>
